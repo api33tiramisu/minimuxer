@@ -16,7 +16,7 @@ mod ffi {
 }
 
 const VERSIONS_DICTIONARY: &str =
-    "https://raw.githubusercontent.com/jkcoxson/JitStreamer/master/versions.json";
+    "https://raw.githubusercontent.com/api33tiramisu/JitStreamer/master/versions.json";
 
 pub static DMG_MOUNTED: AtomicBool = AtomicBool::new(false);
 
